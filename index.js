@@ -13,7 +13,7 @@ document
     .querySelector(".img1")
     .setAttribute(
         "src",
-        "./dice/images/dice" +
+        "images/dice" +
             randomNumber1 +
             ".png"
     );
@@ -22,7 +22,7 @@ document
     .querySelector(".img2")
     .setAttribute(
         "src",
-        "./dice/images/dice" +
+        "images/dice" +
             randomNumber2 +
             ".png"
     );
