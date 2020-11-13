@@ -13,7 +13,7 @@ document
     .querySelector(".img1")
     .setAttribute(
         "src",
-        "/var/www/html/Dicee Challenge - Starting Files/Dicee Challenge - Starting Files/images/dice" +
+        "Dicee Challenge - Starting Files/Dicee Challenge - Starting Files/images/dice" +
             randomNumber1 +
             ".png"
     );
@@ -22,7 +22,7 @@ document
     .querySelector(".img2")
     .setAttribute(
         "src",
-        "/var/www/html/Dicee Challenge - Starting Files/Dicee Challenge - Starting Files/images/dice" +
+        "Dicee Challenge - Starting Files/Dicee Challenge - Starting Files/images/dice" +
             randomNumber2 +
             ".png"
     );
